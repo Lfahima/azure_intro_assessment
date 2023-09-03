@@ -44,8 +44,7 @@ References:
 
 ### Azure App Services Environment v1
 * Will actually be retiring on 8/31/2024, however Microsoft has introduced a newer version which is stated to be easier to work with and more secure. 
-* The App Service Environment is one of the options of Azure’s App Services, and it gives users and clients ability to run Azure App Services privately and separately.
-* Services permits a secure virtual network for their clients to work with. 
+* The App Service Environment is one of the options of Azure’s App Services, and it gives users and clients ability to run Azure App Services privately, securely, and separately.
 
 Interact with Azure App Services Environment v1 using python by utilizing SDK and APIs, ASE.
 
@@ -56,12 +55,10 @@ References:
 ## Database Services:
 
 ### Azure Cosmos DB (NoSQL)
-* Is a database for the creation of applications. We have become increasingly reliant on applications to give us information and data, the Microsoft website also explains how applications are needed in real-time to offer information as soon as possible. 
-* The Cosmo DB is making sure of just that, it expedites the information being relayed from applications and insures ideal progression of applications, with the highest delivery speed offered. 
-* Multiple languages can be used to develops apps (open source APIs and numerous SDKs). 
-* The Cosmo DB manages updates and development, which saves consumers time and money. T
-* Also mentioned in the document, it’s a much more “cost effective” approach. 
-* It was also mentioned how Cosmo DB offers many benefits to applications with large data such as mobile apps, gaming apps, etc. 
+* Is a database for the creation of applications. The Microsoft website also explains how we have become increasingly reliant on applications to give us fast information and data, and the Cosmo DB is making sure of just that. 
+* Multiple languages can be used to develops apps (APIs and SDKs). 
+* The Cosmo DB manages app updates and development, which saves consumers time and money.  
+* It was also mentioned in the document that Cosmo DB offers many benefits to applications with large data such as mobile apps, gaming apps, etc. 
 
 Interact with Azure Cosmos DB (NoSQL) using python by utilizing SDK and APIs.
 
@@ -69,10 +66,9 @@ References:
 [https://learn.microsoft.com/en-us/azure/cosmos-db/introduction](https://learn.microsoft.com/en-us/azure/cosmos-db/introduction)
 
 ### Azure Table Storage 
-* Azure Table Storage is a service that stores non-relational structured data (structured NoSQL data) and structured data (contains large amounts of data) in cloud.
+* Azure Table Storage is a service that stores non-relational structured data and structured data, contains large amounts of data in cloud.
 * Azure Table Storage has components such as, storage, table, and entity. 
-* Has capability of storing data that is flexible and has a large amount of capacity. 
-* The design of the service makes it easy for users/clients to utilize for their data. 
+* Based on document, the design of the service makes it easy for users/clients to utilize their data. 
 * Service is fast and cost effective in comparison to similar services that can hold large amounts of data. 
 
 Interact with Azure Table Storage using python by utilizing SDKs. 
